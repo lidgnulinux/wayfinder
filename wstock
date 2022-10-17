@@ -1,0 +1,3 @@
+#!/bin/bash
+
+wofi -Q $1 -l 1 -W 15% --line 8 -p "YWAL" --normal-window 
